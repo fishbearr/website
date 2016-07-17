@@ -19,9 +19,9 @@
   </div>
 
   <body>
-    <div class="container">
+    <div class="container" style="padding: -2%">
       <center><h1 style="font-size: 200%; padding-bottom: 2%" id="joinMailingList">Join Our Mailing List</h1></center>
-      <table id="mailingTable">
+      <table id="mailingTable" style="width: 100%">
         <tr>
           <td id="joinForm" class="mailingList">
             <form class="form-horizontal" role="form" action="https://mailman11.u.washington.edu/mailman/subscribe/sase-uw" method="post">
@@ -79,7 +79,8 @@
           </td>
         </tr>
       </table>
-
+    </div>
+    <div class="container">
       <div id="becomeOfficer" >
         <center><h3 style="font-size: 200%; padding-bottom: 2%">Become an Officer!</h3></center>
         <table id="becomeOfficerTable">
