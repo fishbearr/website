@@ -10,6 +10,7 @@
 					        <li><a href="join.php">Join</a></li>
 							<li><a href="officers.php">Officers</a></li>
 							<li><a href="events.php">Events</a></li>
+							<li class="current"><a href="calender.php">Calendar</a></li>
 							<li><a href="media.php">Photos</a></li>
 						</ul>
 					</nav>
