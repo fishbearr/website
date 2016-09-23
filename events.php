@@ -22,72 +22,13 @@
 		<div class="container">
 			<center><h1 style="font-size: 200%; padding-bottom: 2%" class="upcomingWords">Upcoming Events</h1></center>
 
-			<!--<div class="futureEvent events" style="margin-bottom: 2%">
+			<div class="futureEvent events" style="margin-bottom: 2%">
 				<div style="text-align: center; padding-bottom: 2%"><b>Tune in for future events!</b></div>
-			</div> -->
+			</div> 
 
-			<table id="eventsTable">
-
-				<tr>
-					<td class="events">
-						<table class="actualEvent">
-							<tr>
-								<td class="eventPictureTd">
-									<div class="eventPicture">
-										<img src="images/events/saselogo.png">
-									</div>
-								</td>
-
-								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="previousEvent">
-										<h2>HCDE/INFO Panel</h2>
-										<p><b>Date:</b> April 28th</p>
-										<p><b>Time:</b> 6:30 - 8:30 pm </p>
-										<p><b>Location:</b> TBD</p>
-
-										<div class="accordion">
-											<h3>View Details</h3>
-											<div>
-												
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-
-				<tr>
-					<td class="events">
-						<table class="actualEvent">
-							<tr>
-								<td class="eventPictureTd">
-									<div class="eventPicture">
-										<img src="images/events/saselogo.png">
-									</div>
-								</td>
-
-								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="previousEvent">
-										<h2>SASE Movie Night</h2>
-										<p><b>Date:</b> May 6th</p>
-										<p><b>Time:</b> 6:00 - 8:00 pm </p>
-										<p><b>Location:</b> TBD</p>
-
-										<div class="accordion">
-											<h3>View Details</h3>
-											<div>
-												
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
+			<!-- <table id="eventsTable">
+				
+			</table> -->
 
 			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
 
@@ -98,7 +39,105 @@
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
-										<img src="images/events/saselogo.png">
+										<img src="images/events/sharetea2016.png">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>SASE Sharetea Fundraiser</h2>
+										<p><b>Date:</b> May 12th</p>
+										<p><b>Time:</b> 12:00 - 9:00 PM </p>
+										<p><b>Location:</b> Sharetea UW</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>Need a break from your midterms or need to relax after? Drop by Sharetea anytime Thursday, May 12th to fill your Boba cravings! Show your support by mentioning SASE when you buy your drink. (Just say &quot;Says&quot;, or spell S.A.S.E)</p>
+												</br>
+												<p>Date: Thursday, May 12th</p>
+												<p>Time: Noon till 9:00PM!</p>  
+												<p>Location: Sharetea at UW See you there! (Bring your friends too!)</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/events/cia2016.jpg">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>SASE CIA Special Info Session</h2>
+										<p><b>Date:</b> May 9th</p>
+										<p><b>Time:</b> 11:00 - 11:30 AM </p>
+										<p><b>Location:</b> UW Career Center</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>The CIA will be hosting a special info session with SASE! They will be discussing their internships and full-time positions for cybersecurity and engineering.</p>
+												</br>
+												<p>Cyber positions &ndash; Computer engineering</p>
+												</br>
+												<p>Science, Technology, and Weapons Analyst positions &ndash; AE, ME, EE, CS, CE, and Nuclear engineering; Physics, Math, Chemistry, Biological Sciences, and Physical Sciences.</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/events/hcdeinfo2016.jpg">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>HCDE/INFO Panel</h2>
+										<p><b>Date:</b> April 28th</p>
+										<p><b>Time:</b> 6:30 - 8:30 pm </p>
+										<p><b>Location:</b> SIEG 227</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>The Society of Asian Scientists and Engineers is hosting a panel for prospective HCDE and Informatics to hear about the similarities and differences between the two majors from students who are in HCDE and/or Informatics. This panel will be an opportunity for students to gain insight as to what each major entails and hear about why the panelists chose their majors. </p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/events/python2016.jpg">
 									</div>
 								</td>
 
@@ -107,12 +146,14 @@
 										<h2>Python Workshop</h2>
 										<p><b>Date:</b> April 21th</p>
 										<p><b>Time:</b> 5:30 - 6:30 pm </p>
-										<p><b>Location:</b> TBD</p>
+										<p><b>Location:</b> SAV 138</p>
 
 										<div class="accordion">
 											<h3>View Details</h3>
 											<div>
-												
+												<p>Have you taken CSE 142? Want a slice of Py-thon on your resume? Then come get a quick, easy introduction to Python taught by our very own President Kimberly Ha! </p>
+												</br>
+												By the end of the workshop, you'll be able to translate the basics of Java to Python and learn how to use APIs!</div>
 											</div>
 										</div>
 									</div>

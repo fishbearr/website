@@ -52,7 +52,7 @@ function bottom() { ?>
 					<div class="12u">
 						<div id="copyright">
 							<ul class="menu">
-								<li>&copy; 2015 SASE - UW Chapter. All rights reserved</li>
+								<li>&copy; 2015-2016 SASE - UW Chapter. All rights reserved</li>
 							</ul>
 						</div>
 					</div>
