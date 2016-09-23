@@ -92,11 +92,11 @@
               <br />
               <center><h3 style="font-size: 200%; padding-bottom: 2%">FAQ</h3></center>
               <br />
-              <p><b>Q:</b> How many hours a week are general officers expected to commit? <br /> <b>A:</b> We expect around 3-5 hours a week (including meetings)</p>
+              <p><b>Q:</b> How many hours a week are general officers expected to commit? <br /> <b>A:</b> We expect around 4-6 hours a week (including meetings)</p>
 
               <p><b>Q:</b> Can I be an officer of SASE and another club at the same time? <br />  <b>A:</b> SASE officers are not restricted from holding positions in other clubs. (However please do check their policy on this because it may be different!)</p>
 
-              <p><b>Q:</b> How big is SASE?<br />   <b>A:</b> We have around 700 people subscribed to our mailing list, and usually have around 30-40 people at each event</p>
+              <p><b>Q:</b> How big is SASE?<br />   <b>A:</b> We have around 900 people subscribed to our mailing list, and usually have around 30-40 people at each event</p>
 
               <p><b>Q:</b> What are some of the events held by SASE? <br />  <b>A:</b> Visit the event archive for our previous events at: <a href="events.php">http://students.washington.edu/sase/events.php</a></p>
             </td>
@@ -113,9 +113,10 @@
               </ul>
               <p>To see a list of the events we have hosted, visit the event archive!</p>
               <br/>
-              <p><b>The next application cycle will open in early Autumn quarter of 2015</b></p>
+              <p><b>Applications are currently open, click <a href="https://catalyst.uw.edu/webq/survey/sase/313546
+">here</a> to apply</b></p>
               <br />
-              <p>Based on your responses from the survey, we will select from the pool and schedule a short interview with you to see if you are a good fit for our team. The dates for the interviews are to be determined.</p>
+              <p>Based on your responses from the survey, we will select from the pool and schedule two interview rounds with you to see if you are a good fit for our team. The dates for the interviews are to be determined.</p>
             </td>
           </tr>
         </table>
