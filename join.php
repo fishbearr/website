@@ -115,7 +115,7 @@
               <p>To see a list of the events we have hosted, visit the event archive!</p>
               <br/>
               <p><b>Applications are currently open, click <a href="https://catalyst.uw.edu/webq/survey/sase/313546
-">here</a> to apply</b></p>
+">here</a> to apply.  They will close on October 11, 12:00am</b></p>
               <br />
               <p>Based on your responses from the survey, we will select from the pool and schedule two interview rounds with you to see if you are a good fit for our team. The dates for the interviews are to be determined.</p>
             </td>
