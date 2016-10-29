@@ -100,24 +100,6 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/daniel16.jpg" alt="" > 
-							</div>
-
-							<h1>Treasurer</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Daniel Zhu</h2>
-								<a href="https://www.linkedin.com/in/zhudaniel" class="icon fa-linkedin" class="officertemp">
-									<span class="label">LinkedIn</span>
-								</a>
-							</div>
-							<p>Electrical Engineering</p>
-							<p>&nbsp;</p>
-							<p class="year">Junior</p>
-						</div>
-					</td>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
 								<img src="images/officers/aria16.jpg" alt="" > 
 							</div>
 
@@ -130,10 +112,6 @@
 							<p class="year">Sophomore</p>
 						</div>
 					</td>
-
-				</tr>
-				<!-- ROW 3 -->
-				<tr>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
@@ -149,6 +127,9 @@
 							<p class="year">Sophomore</p>
 						</div>
 					</td>
+				</tr>
+				<!-- ROW 3 -->
+				<tr>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
@@ -241,6 +222,24 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
+								<img src="images/officers/daniel16.jpg" alt="" > 
+							</div>
+
+							<h1>Advisor, Branch Representative</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Daniel Zhu</h2>
+								<a href="https://www.linkedin.com/in/zhudaniel" class="icon fa-linkedin" class="officertemp">
+									<span class="label">LinkedIn</span>
+								</a>
+							</div>
+							<p>Electrical Engineering</p>
+							<p>&nbsp;</p>
+							<p class="year">Junior</p>
+						</div>
+					</td>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
 								<img src="images/officers/kim16.jpg" alt="" > 
 							</div>
 							<h1>Advisor</h1>
@@ -255,6 +254,8 @@
 							<p class="year">Senior</p>
 						</div>
 					</td>
+				</tr>
+				<tr>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
@@ -333,6 +334,7 @@
 									<p>Thomas Tseng '17</p>
 									<p>Rita Huang '18</p>
 									<p>Joey Thai '18</p>
+									<p>Shen Yao '19</p>
 									<p>Gina Lee '18</p>
 									<p>Clara Natajaya Na '19</p>
 									<p>Aria Cha '19</p>
