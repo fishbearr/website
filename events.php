@@ -103,6 +103,41 @@
 					</td>
 				</tr>
 
+				<table id="eventsTable">
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/events/showme2016.jpg">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>SHOW ME SEATTLE</h2>
+										<p><b>Date:</b> September 26th</p>
+										<p><b>Time:</b> 2:30 PM - 5 PM </p>
+										<p><b>Location:</b> Suzzallo Library</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>On September 26th, SASE invites you to a tour of Seattle to Pike Place Market and International District, where you will get a chance to explore Seattle while connecting with our fellow SASE officers. This will be a great opportunity for you to learn more about SASE, get to know more people, and get advice from our officers for a smooth transition into university!</p>
+												</br>
+												<p>Date: Monday, September 26th</p>
+												<p>Time: 2:30 PM - 5 PM</p>  
+												<p>Location: Suzzallo Library</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
