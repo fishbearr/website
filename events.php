@@ -103,7 +103,40 @@
 					</td>
 				</tr>
 
-				<table id="eventsTable">
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/events/gen12016.jpg">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>Autumn General Meeting 2016</h2>
+										<p><b>Date:</b> October 4th</p>
+										<p><b>Time:</b> 5:30 PM - 7:30 PM </p>
+										<p><b>Location:</b> THO 135</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>If you're interested in a career in science or engineering, you should join SASE! :) Come to Thomson (THO) 135 to learn more about our club, the Society of Asian Scientists and Engineers. </br></br>Meet your fellow classmates and upperclassmen and make new friends and study buddies! Especially for freshmen and those who haven't decided what to major in yet, this is a great chance to get advice and gain insight into science and engineering at UW.</br>We'll introduce our team, upcoming events, and have some fun! Refreshments will also be provided!</p>
+												</br>
+												<p>Date: Tuesday, October 4th</p>
+												<p>Time: 5:30 PM - 7:30 PM</p>  
+												<p>Location: THO 135</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
