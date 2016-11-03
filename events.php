@@ -109,7 +109,7 @@
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
-										<img src="images/events/gen12016.jpg">
+										<img src="images/events/gen12016.png">
 									</div>
 								</td>
 
