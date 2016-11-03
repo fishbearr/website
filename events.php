@@ -40,6 +40,40 @@
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
+										<img src="images/events/amazon2016.jpg">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>Amazon Resume/Interview Workshop</h2>
+										<p><b>Date:</b> October 17th</p>
+										<p><b>Time:</b> 6 PM - 7:30 PM </p>
+										<p><b>Location:</b> SMI 404</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>Want to make the most of your time at the SEBA Career Fair? Brush up your resume? Come join SASE on Monday, October 17, in Smith Hall 404 for a resume/interview workshop, where representatives from Amazon will share actionable tips and tricks in building effective resumes and acing future interviews. We will focus on resumes and interviews specifically for science and engineering majors. The workshop will be hands-on, so bring your resume!</p>
+												</br>
+												<p>Date: Monday, October 17th</p>
+												<p>Time: 6 PM - 7:30 PM</p>  
+												<p>Location: SMI 404</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
 										<img src="images/events/sharetea2016.png">
 									</div>
 								</td>
