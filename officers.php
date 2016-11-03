@@ -237,7 +237,7 @@
 							<p class="year">Junior</p>
 						</div>
 					</td>
-					<td class="officertd">
+					<!--<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
 								<img src="images/officers/kim16.jpg" alt="" > 
@@ -253,9 +253,7 @@
 							<p>Mathematics</p>
 							<p class="year">Senior</p>
 						</div>
-					</td>
-				</tr>
-				<tr>
+					</td>-->
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
