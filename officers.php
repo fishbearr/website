@@ -157,7 +157,7 @@
 							<div style="padding:2%">
 								<img src="images/officers/gina16.jpg" alt="" > 
 							</div>
-							<h1>Senior Officer</h1>
+							<h1>Senior Officer, Director of Mentorship</h1>
 							<div class="officerlinks">
 								<h2 class="officertemp">Gina Lee</h2>
 								<a href="https://www.linkedin.com/in/leeginaj" class="icon fa-linkedin" class="officertemp">
@@ -237,7 +237,7 @@
 							<p class="year">Junior</p>
 						</div>
 					</td>
-					<td class="officertd">
+					<!--<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
 								<img src="images/officers/kim16.jpg" alt="" > 
@@ -253,9 +253,7 @@
 							<p>Mathematics</p>
 							<p class="year">Senior</p>
 						</div>
-					</td>
-				</tr>
-				<tr>
+					</td>-->
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
