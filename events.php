@@ -92,6 +92,8 @@
 						</table>
 					</td>
 				</tr>
+
+				<br>
 			</div> 
 
 			<!-- <table id="eventsTable">
