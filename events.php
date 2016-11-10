@@ -24,8 +24,41 @@
 			<center><h1 style="font-size: 200%; padding-bottom: 2%" class="upcomingWords">Upcoming Events</h1></center>
 
 			<div class="futureEvent events" style="margin-bottom: 2%">
-				<div style="text-align: center; padding-bottom: 2%"><b>Tune in for future events!</b></div>
+				<!--<div style="text-align: center; padding-bottom: 2%"><b>Tune in for future events!</b></div>
+				-->
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/boeinglogo.png">
+									</div>
+								</td>
 
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>Boeing Infosession</h2>
+										<p><b>Date:</b> November 15</p>
+										<p><b>Time:</b> 6 PM - 8 PM </p>
+										<p><b>Location:</b> MGH 134</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>Boeing will be coming to the Career Center to talk students at UW!</p>
+												</br>
+												<p>Date: Tuesday, November 15th</p>
+												<p>Time: 6 PM - 8 PM</p>  
+												<p>Location: MGH 134</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
 			</div> 
 
 			<!-- <table id="eventsTable">
