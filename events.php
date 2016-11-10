@@ -59,6 +59,39 @@
 						</table>
 					</td>
 				</tr>
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/logo.png">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>Second Autumn General Meeting 2016</h2>
+										<p><b>Date:</b> November 22</p>
+										<p><b>Time:</b> 5 PM - 7 PM </p>
+										<p><b>Location:</b> TBD</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>Come hear about our upcoming events and have a mini celebration for Thanksgiving!</p>
+												</br>
+												<p>Date: Tuesday, November 22nd</p>
+												<p>Time: 5 PM - 7 PM</p>  
+												<p>Location: TBD</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
 			</div> 
 
 			<!-- <table id="eventsTable">
