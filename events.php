@@ -24,38 +24,11 @@
 			<center><h1 style="font-size: 200%; padding-bottom: 2%" class="upcomingWords">Upcoming Events</h1></center>
 
 			<div class="futureEvent events" style="margin-bottom: 2%">
-				<!-- <div style="text-align: center; padding-bottom: 2%"><b>Tune in for future events!</b></div> -->
+				<div style="text-align: center; padding-bottom: 2%"><b>Tune in for future events!</b></div>
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
-							<tr>
-								<td class="eventPictureTd">
-									<div class="eventPicture">
-										<img src="images/events/major2016.jpg">
-									</div>
-								</td>
-
-								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="previousEvent">
-										<h2>4th Annual Major Night!</h2>
-										<p><b>Date:</b> November 8</p>
-										<p><b>Time:</b> 5:30 PM - 7:30 PM </p>
-										<p><b>Location:</b> HUB 337</p>
-
-										<div class="accordion">
-											<h3>View Details</h3>
-											<div>
-												<p>If you're interested in a major in science or engineering, you should come to the HUB - Room 337 on Tues, Nov. 8 to learn more what each major is like, especially if you still need to apply! </br></br>SASE officers as well as honorary guests---upperclassmen in their majors---will provide personal advice on registering for classes and getting into the science and engineering majors!</br></br>Please RSVP so we can accommodate your needs: https://tinyurl.com/majornight16</br></br>We'll be talking about:</br>- Registration protips</br>- Resources you may not have heard of</br>- Meaningful academic advice</br></br>At the end, you'll be free to speak with any upperclassman and ask them questions. Resfreshments will be provided and everyone is welcome to attend, so please invite your friends! We hope to see you there!! :)</p>
-												</br>
-												<p>Date: Tuesday, November 8</p>
-												<p>Time: 5:30 PM - 7:30 PM</p>  
-												<p>Location: HUB 337</p>
-											</div>
-										</div>
-										</br>
-									</div>
-								</td>
-							</tr>
+							
 						</table>
 					</td>
 				</tr>
@@ -69,9 +42,38 @@
 			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
 
 			<table id="eventsTable">
+				
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
+						<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
+										<img src="images/events/major2016.jpg">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+								<div class="previousEvent">
+									<h2>4th Annual Major Night!</h2>
+										<p><b>Date:</b> November 8</p>
+										<p><b>Time:</b> 5:30 PM - 7:30 PM </p>
+										<p><b>Location:</b> HUB 337</p>
+
+									<div class="accordion">
+										<h3>View Details</h3>
+										<div>
+												<p>If you're interested in a major in science or engineering, you should come to the HUB - Room 337 on Tues, Nov. 8 to learn more what each major is like, especially if you still need to apply! </br></br>SASE officers as well as honorary guests---upperclassmen in their majors---will provide personal advice on registering for classes and getting into the science and engineering majors!</br></br>Please RSVP so we can accommodate your needs: https://tinyurl.com/majornight16</br></br>We'll be talking about:</br>- Registration protips</br>- Resources you may not have heard of</br>- Meaningful academic advice</br></br>At the end, you'll be free to speak with any upperclassman and ask them questions. Resfreshments will be provided and everyone is welcome to attend, so please invite your friends! We hope to see you there!! :)</p>
+												</br>
+												<p>Date: Tuesday, November 8</p>
+												<p>Time: 5:30 PM - 7:30 PM</p>  
+												<p>Location: HUB 337</p>
+										</div>
+									</div>
+								</br>
+							</div>
+						</td>
+					</tr>
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
