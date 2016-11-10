@@ -225,7 +225,7 @@
 								<img src="images/officers/daniel16.jpg" alt="" > 
 							</div>
 
-							<h1>Advisor, Branch Representative</h1>
+							<h1>Advisor<br>Branch Representative</h1>
 							<div class="officerlinks">
 								<h2 class="officertemp">Daniel Zhu</h2>
 								<a href="https://www.linkedin.com/in/zhudaniel" class="icon fa-linkedin" class="officertemp">
