@@ -25,13 +25,6 @@
 
 			<div class="futureEvent events" style="margin-bottom: 2%">
 				<div style="text-align: center; padding-bottom: 2%"><b>Tune in for future events!</b></div>
-				<tr>
-					<td class="events">
-						<table class="actualEvent">
-							
-						</table>
-					</td>
-				</tr>
 
 			</div> 
 
@@ -42,11 +35,10 @@
 			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
 
 			<table id="eventsTable">
-				
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
-						<tr>
+							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
 										<img src="images/events/major2016.jpg">
@@ -73,7 +65,13 @@
 								</br>
 							</div>
 						</td>
-					</tr>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
