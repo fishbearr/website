@@ -38,19 +38,26 @@
 
 								<td class="eventInfoTd" style="vertical-align:top">
 									<div class="previousEvent">
-										<h2>Boeing Infosession</h2>
+										<h2>Boeing Mentoring Night</h2>
 										<p><b>Date:</b> November 15</p>
 										<p><b>Time:</b> 6 PM - 8 PM </p>
-										<p><b>Location:</b> MGH 134</p>
+										<p><b>Location:</b> GUG</p>
 
 										<div class="accordion">
 											<h3>View Details</h3>
 											<div>
-												<p>Boeing will be coming to the Career Center to talk students at UW!</p>
+												<p>Five groups of  panelists from Boeing including Executives, HR, and more will come to UW and interact with UW students!<br>
+												Panelists Include: 
+													<br>Dennis Eng. Director – Business Op for BCA Airplane Development
+													<br>Lucia Chung. Director – Boeing Research and Technology
+													<br>Nyle Miyamoto. Design Chief – BCA Structures Engineering
+													<br>Mark Cousino. Director – LTD, BWIL Board Member
+													<br>Jon Geiger. Director – BCA Business Ops Finance
+												</p>
 												</br>
 												<p>Date: Tuesday, November 15th</p>
 												<p>Time: 6 PM - 8 PM</p>  
-												<p>Location: MGH 134</p>
+												<p>Location: Guggenheim Hall</p>
 											</div>
 										</div>
 									</div>
