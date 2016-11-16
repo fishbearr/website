@@ -32,6 +32,59 @@
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
+										<img src="images/events/gen22016.png">
+									</div>
+								</td>
+
+								<td class="eventInfoTd" style="vertical-align:top">
+									<div class="previousEvent">
+										<h2>Second Autumn General Meeting 2016: Senior Advice Panel</h2>
+										<p><b>Date:</b> November 22</p>
+										<p><b>Time:</b> 5 PM - 7 PM </p>
+										<p><b>Location:</b> THO 119</p>
+
+										<div class="accordion">
+											<h3>View Details</h3>
+											<div>
+												<p>Celebrate Thanksgiving (and a break from classes) with SASE! This meeting will feature a very insightful senior advice panel and Thanksgiving pie for everyone.
+												<br>Come to the HUB - Room 332 to learn about surviving college from experienced STEM seniors and share some pie while getting to know your fellow classmates and upperclassmen in science and engineering!
+												<br><br>Some questions we'll be going over:
+												<br>- Biggest/most memorable regret?
+												<br>- If you could do 1 thing differently in undergrad career, what would it be?
+												<br>- What's one of the biggest lessons you've learned from a failure in undergrad?
+												<br>- Advice about specific major?
+												<br>- If you don't get in first time to major, what to you do?
+												<br><br>We'll update you on future events, have some fun, and be thankful for a break from labs and homework together.
+												<br><br>Everyone is welcome to attend so please invite your friends and we hope to see you there!!</p>
+												</br>
+												<p>Date: Tuesday, November 22nd</p>
+												<p>Time: 5 PM - 7 PM</p>  
+												<p>Location: THO 119</p>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<br>
+			</div> 
+
+			<!-- <table id="eventsTable">
+				
+			</table> -->
+
+			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
+
+			<table id="eventsTable">
+				<tr>
+					<td class="events">
+						<table class="actualEvent">
+							<tr>
+								<td class="eventPictureTd">
+									<div class="eventPicture">
 										<img src="images/boeinglogo.png">
 									</div>
 								</td>
@@ -66,50 +119,6 @@
 						</table>
 					</td>
 				</tr>
-				<tr>
-					<td class="events">
-						<table class="actualEvent">
-							<tr>
-								<td class="eventPictureTd">
-									<div class="eventPicture">
-										<img src="images/logo.png">
-									</div>
-								</td>
-
-								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="previousEvent">
-										<h2>Second Autumn General Meeting 2016</h2>
-										<p><b>Date:</b> November 22</p>
-										<p><b>Time:</b> 5 PM - 7 PM </p>
-										<p><b>Location:</b> TBD</p>
-
-										<div class="accordion">
-											<h3>View Details</h3>
-											<div>
-												<p>Come hear about our upcoming events and have a mini celebration for Thanksgiving!</p>
-												</br>
-												<p>Date: Tuesday, November 22nd</p>
-												<p>Time: 5 PM - 7 PM</p>  
-												<p>Location: TBD</p>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-
-				<br>
-			</div> 
-
-			<!-- <table id="eventsTable">
-				
-			</table> -->
-
-			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
-
-			<table id="eventsTable">
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
