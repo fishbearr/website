@@ -37,8 +37,8 @@
 								</td>
 
 								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="previousEvent">
-										<h2>Second Autumn General Meeting 2016: Senior Advice Panel</h2>
+									<div class="futureEvent">
+										<h2>SASEGiving General Meeting: Senior Advice Panel</h2>
 										<p><b>Date:</b> November 22</p>
 										<p><b>Time:</b> 5 PM - 7 PM </p>
 										<p><b>Location:</b> THO 119</p>
@@ -68,8 +68,6 @@
 						</table>
 					</td>
 				</tr>
-
-				<br>
 			</div> 
 
 			<!-- <table id="eventsTable">
