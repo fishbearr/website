@@ -37,7 +37,7 @@
 								</td>
 
 								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="futureEvent">
+									<div class="previousEvent futureEvent">
 										<h2>SASEGiving General Meeting: Senior Advice Panel</h2>
 										<p><b>Date:</b> November 22</p>
 										<p><b>Time:</b> 5 PM - 7 PM </p>
