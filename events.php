@@ -44,25 +44,34 @@
 							<tr>
 								<td class="eventPictureTd">
 									<div class="eventPicture">
-										<img src="images/logo.png">
+										<img src="images/events/gen22016.png">
 									</div>
 								</td>
 
 								<td class="eventInfoTd" style="vertical-align:top">
-									<div class="previousEvent">
-										<h2>Second Autumn General Meeting 2016</h2>
+									<div class="previousEvent futureEvent">
+										<h2>SASEGiving General Meeting: Senior Advice Panel</h2>
 										<p><b>Date:</b> November 22</p>
 										<p><b>Time:</b> 5 PM - 7 PM </p>
-										<p><b>Location:</b> TBD</p>
+										<p><b>Location:</b> THO 119</p>
 
 										<div class="accordion">
 											<h3>View Details</h3>
 											<div>
-												<p>Come hear about our upcoming events and have a mini celebration for Thanksgiving!</p>
+												<p>Celebrate Thanksgiving (and a break from classes) with SASE! This meeting will feature a very insightful senior advice panel and Thanksgiving pie for everyone.
+												<br>Come to the HUB - Room 332 to learn about surviving college from experienced STEM seniors and share some pie while getting to know your fellow classmates and upperclassmen in science and engineering!
+												<br><br>Some questions we'll be going over:
+												<br>- Biggest/most memorable regret?
+												<br>- If you could do 1 thing differently in undergrad career, what would it be?
+												<br>- What's one of the biggest lessons you've learned from a failure in undergrad?
+												<br>- Advice about specific major?
+												<br>- If you don't get in first time to major, what to you do?
+												<br><br>We'll update you on future events, have some fun, and be thankful for a break from labs and homework together.
+												<br><br>Everyone is welcome to attend so please invite your friends and we hope to see you there!!</p>
 												</br>
 												<p>Date: Tuesday, November 22nd</p>
 												<p>Time: 5 PM - 7 PM</p>  
-												<p>Location: TBD</p>
+												<p>Location: THO 119</p>
 											</div>
 										</div>
 									</div>
@@ -71,6 +80,15 @@
 						</table>
 					</td>
 				</tr>
+			</div> 
+
+			<!-- <table id="eventsTable">
+				
+			</table> -->
+
+			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
+
+			<table id="eventsTable">
 				<tr>
 					<td class="events">
 						<table class="actualEvent">
@@ -83,19 +101,26 @@
 
 								<td class="eventInfoTd" style="vertical-align:top">
 									<div class="previousEvent">
-										<h2>Boeing Infosession</h2>
+										<h2>Boeing Mentoring Night</h2>
 										<p><b>Date:</b> November 15</p>
 										<p><b>Time:</b> 6 PM - 8 PM </p>
-										<p><b>Location:</b> MGH 134</p>
+										<p><b>Location:</b> GUG</p>
 
 										<div class="accordion">
 											<h3>View Details</h3>
 											<div>
-												<p>Boeing will be coming to the Career Center to talk students at UW!</p>
+												<p>Five groups of  panelists from Boeing including Executives, HR, and more will come to UW and interact with UW students!<br>
+												Panelists Include: 
+													<br>Dennis Eng. Director – Business Op for BCA Airplane Development
+													<br>Lucia Chung. Director – Boeing Research and Technology
+													<br>Nyle Miyamoto. Design Chief – BCA Structures Engineering
+													<br>Mark Cousino. Director – LTD, BWIL Board Member
+													<br>Jon Geiger. Director – BCA Business Ops Finance
+												</p>
 												</br>
 												<p>Date: Tuesday, November 15th</p>
 												<p>Time: 6 PM - 8 PM</p>  
-												<p>Location: MGH 134</p>
+												<p>Location: Guggenheim Hall</p>
 											</div>
 										</div>
 									</div>
