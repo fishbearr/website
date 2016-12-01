@@ -86,8 +86,6 @@
 				
 			</table> -->
 
-			<center><h1 style="font-size: 200%; padding-bottom: 2%">Past Events</h1></center>
-
 			<table id="eventsTable">
 				<tr>
 					<td class="events">
