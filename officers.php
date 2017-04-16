@@ -173,6 +173,24 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
+								<img src="images/officers/shen17.jpg" alt="" > 
+							</div>
+
+							<h1>Senior Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Shen Yao</h2>
+							</div>
+							<p>Electrical Engineering</p>
+							<p>&nbsp;</p>
+							<p class="year">Sophomore</p>
+						</div>
+					</td>
+				</tr>
+				<!-- ROW 4 -->
+				<tr>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
 								<img src="images/officers/rita17.jpg" alt="" > 
 							</div>
 
@@ -185,9 +203,6 @@
 							<p class="year">Junior</p>
 						</div>
 					</td>
-				</tr>
-				<!-- ROW 4 -->
-				<tr>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
@@ -216,7 +231,9 @@
 							<p class="year">Sophomore</p>
 						</div>
 					</td>
-					<td class="officertd">
+			<!-- ROW 5 -->
+			<tr>
+				<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
 								<img src="images/officers/leanne17.jpg" alt="" > 
@@ -231,8 +248,6 @@
 							<p class="year">Sophomore</p>
 						</div>
 					</td>
-			<!-- ROW 5 -->
-			<tr>
 				<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
