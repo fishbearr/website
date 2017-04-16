@@ -248,7 +248,6 @@
 							<p class="year">Sophomore</p>
 						</div>
 					</td>
-				</tr>
 				<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
