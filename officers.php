@@ -38,7 +38,7 @@
 									<span class="label">LinkedIn</span>
 								</a>-->
 							</div>
-							<p>Materials Science Engineering</p>
+							<p>Materials Science &amp; Engineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Sophomore</p>
 						</div>
@@ -191,6 +191,20 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
+								<img src="images/officers/sira17.jpg" alt="" > 
+							</div>
+							<h1>Senior Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Sira Horradarn</h2>
+							</div>
+							<p>Computer Science</p>
+							<p>&nbsp;</p>
+							<p class="year">Sophomore</p>
+						</div>
+					</td>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
 								<img src="images/officers/zhilin17.jpg" alt="" > 
 							</div>
 							<h1>Senior Officer</h1>
@@ -217,7 +231,9 @@
 							<p class="year">Sophomore</p>
 						</div>
 					</td>
-					<td class="officertd">
+			<!-- ROW 5 -->
+			<tr>
+				<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
 								<img src="images/officers/jessica17.jpg" alt="" > 
@@ -233,8 +249,6 @@
 						</div>
 					</td>
 				</tr>
-			<!-- ROW 5 -->
-			<tr>
 				<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
