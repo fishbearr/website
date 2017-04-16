@@ -155,15 +155,19 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/zhilin17.jpg" alt="" > 
+								<img src="images/officers/daniel17.jpg" alt="" > 
 							</div>
-							<h1>Senior Officer</h1>
+
+							<h1>Advisor<br>Branch Representative</h1>
 							<div class="officerlinks">
-								<h2 class="officertemp">Zhilin Huang</h2>
+								<h2 class="officertemp">Daniel Zhu</h2>
+								<a href="https://www.linkedin.com/in/zhudaniel" class="icon fa-linkedin" class="officertemp">
+									<span class="label">LinkedIn</span>
+								</a>
 							</div>
-							<p>Biology</p>
+							<p>Electrical Engineering</p>
 							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
+							<p class="year">Junior</p>
 						</div>
 					</td>
 					<td class="officertd">
@@ -187,6 +191,20 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
+								<img src="images/officers/zhilin17.jpg" alt="" > 
+							</div>
+							<h1>Senior Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Zhilin Huang</h2>
+							</div>
+							<p>Biology</p>
+							<p>&nbsp;</p>
+							<p class="year">Sophomore</p>
+						</div>
+					</td>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
 								<img src="images/officers/leanne17.jpg" alt="" > 
 							</div>
 
@@ -197,56 +215,6 @@
 							<p>Informatics</p>
 							<p>&nbsp;</p>
 							<p class="year">Sophomore</p>
-						</div>
-					</td>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
-								<img src="images/officers/daniel17.jpg" alt="" > 
-							</div>
-
-							<h1>Advisor<br>Branch Representative</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Daniel Zhu</h2>
-								<a href="https://www.linkedin.com/in/zhudaniel" class="icon fa-linkedin" class="officertemp">
-									<span class="label">LinkedIn</span>
-								</a>
-							</div>
-							<p>Electrical Engineering</p>
-							<p>&nbsp;</p>
-							<p class="year">Junior</p>
-						</div>
-					</td>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
-								<img src="images/officers/yenna17.jpg" alt="" > 
-							</div>
-							<h1>Advisor</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Yenna Lee</h2> 
-							</div>
-							<p>Biology</p>
-							<p>&nbsp;</p>
-							<p class="year">Senior</p>
-						</div>
-					</td>
-				</tr>
-				<!-- ROW 5 -->
-				<tr>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
-								<img src="images/officers/kevin17.jpg" alt="" > 
-							</div>
-
-							<h1>Senior Officer</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Kevin Yuan</h2>
-							</div>
-							<p>Computer Science</p>
-							<p>&nbsp;</p>
-							<p class="year">Junior</p>
 						</div>
 					</td>
 					<td class="officertd">
@@ -265,7 +233,24 @@
 						</div>
 					</td>
 				</tr>
-				
+			<!-- ROW 5 -->
+			<tr>
+				<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
+								<img src="images/officers/kevin17.jpg" alt="" > 
+							</div>
+
+							<h1>Senior Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Kevin Yuan</h2>
+							</div>
+							<p>Computer Science</p>
+							<p>&nbsp;</p>
+							<p class="year">Junior</p>
+						</div>
+					</td>	
+			</tr>
 			</table>
 			<!--<center><h1 style="font-size: 150%; padding-bottom: 2%; color: #0055FE">General Officers</h1></center>
 			<table id="officers">
