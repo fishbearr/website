@@ -24,7 +24,7 @@
 						<div class="row">
 							<div class="7u 12u(medium)">
 								<h2>Welcome!</h2>
-								<p>We are SASE at the University of Washington, yay!</p>
+								<p>We are SASE at the University of Washington</p>
 							</div>
 							<div class="5u 12u(medium)">
 								<ul>
