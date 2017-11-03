@@ -1,5 +1,5 @@
 # SASE website
-SASE Website hosted at students.washington.edu/sase.
+SASE Website hosted at [students.washington.edu/sase](students.washington.edu/sase).
 
 ## Updating:
 Clone the repository onto your developmental machine:
@@ -28,6 +28,8 @@ And that's all! You should be able to refresh the website URL and see the change
 
 ## Contact:
 
-For questions, contact:
+For questions and updates, contact:
+
 2017-2018 webmaster: Garrett Mar marg4@uw.edu 
+
 2016-2017 webmasters: Thomas Tseng, Leanne Hwa lkhwa@uw.edu
