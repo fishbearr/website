@@ -162,7 +162,7 @@
 										</a>
 									</li>
 								</ul>
-								<p>University of Washington test<br />
+								<p>University of Washington<br />
 								Seattle, WA 94582<br />
 								sase@uw.edu</p>
 							</section>
