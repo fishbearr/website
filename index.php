@@ -66,15 +66,7 @@
 												<p>Tuesday November 28, 2017 </p>
 											</header>
 											<p>Interested in knowing what STEM research at UW entails? Want to learn more about getting into research while drinking some hot cocoa? Come to SASE's Research Panel on November 28th to get some "hot research tips" from upperclassmen!
-                                                    <br>We'll be talking about:
-                                                    -Finding the right research for you
-                                                    -How to approach professors/Finding research
-                                                    -Academic and personal advice
-                                                    -Other resources and so much more!
-
-                                                    <br>At the end, you'll be free to speak with any upperclassman & ask them questions. Hot Cocoa will be provided & everyone is welcome to attend, so please invite your friends! 
-
-                                                    <br>The event will take place at Thomson Hall, Room 135 from 5:30PM-7:00PM. We hope to see you there!! :)</p>
+                                            </p>
 										</div>
 									</section>
 
@@ -89,7 +81,7 @@
 												<h2>Career Development Night w/Boeing</h2>
 												<p>Tuesday November 14, 2017 </p>
 											</header>
-											<p>BOEING PRESENTS: An opportunity to network with Industry members from Boeing industry members (including Engineering, Technical Fellows, Managers, Executive Leaders, and Human Resources) who will provide perspective on professional life, discuss industry challenges, and provide “lessons learned” on careers and personal fulfillment. The session will begin with a general panel & introductions, then small-group discussions will continue in adjacent classrooms.</p>
+											<p>BOEING PRESENTS: An opportunity to network with Industry members from Boeing industry members (including Engineering, Technical Fellows, Managers, Executive Leaders, and Human Resources) who will provide perspective on professional life, discuss industry challenges, and provide “lessons learned” on careers and personal fulfillment.</p>
 										</div>
 									</section>
 
