@@ -38,15 +38,15 @@
 									<span class="label">LinkedIn</span>
 								</a>-->
 							</div>
-							<p>Materials Science &amp; Engineering</p>
+							<p>Electrical Engineering</p>
 							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
+							<p class="year">Junior</p>
 						</div>
 					</td>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/sharon17.jpg" alt="" > 
+								<img src="images/officers/sharon17.jpg" alt="vice president" > 
 							</div>
 
 							<h1>Vice President</h1>
@@ -58,13 +58,13 @@
 							</div>
 							<p>Bioengineering</p>
 							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
+							<p class="year">Junior</p>
 						</div>
 					</td>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/stefanie17.jpg" alt="" > 
+								<img src="images/officers/stefanie17-18.jpg" alt="public relations" > 
 							</div>
 
 							<h1>Public Relations</h1>
@@ -76,7 +76,7 @@
 							</div>
 							<p>Human Centered Design &amp; Engineering</p>
 							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
+							<p class="year">Junior</p>
 						</div>
 					</td>
 				</tr>
@@ -85,7 +85,7 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/damond17.jpg" alt="" > 
+								<img src="images/officers/damond17-18.jpg" alt="secretary" > 
 							</div>
 
 							<h1>Secretary</h1>
@@ -97,13 +97,13 @@
 							</div>
 							<p>Electrical Engineering</p>
 							<p>&nbsp;</p>
-							<p class="year">Freshman</p>
+							<p class="year">Sophomore</p>
 						</div>
 					</td>
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/wendy17.jpg" alt="" > 
+								<img src="images/officers/wendy17.jpg" alt="member relations" > 
 							</div>
 
 							<h1>Member Relations</h1>
@@ -118,7 +118,7 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/martin17.jpg" alt="" > 
+								<img src="images/officers/martin17-18.jpg" alt="treasurer" > 
 							</div>
 
 							<h1>Treasurer</h1>
@@ -127,7 +127,7 @@
 							</div>
 							<p>Chemical Engineering</p>
 							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
+							<p class="year">Junior</p>
 						</div>
 					</td>
 				</tr>
@@ -138,16 +138,16 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/gina16.jpg" alt="" > 
+								<img src="images/officers/zhilin17-18.jpg" alt="" > 
 							</div>
-							<h1>Senior Officer<br>Director of Mentorship</h1>
+							<h1>Senior Officer<!--<br>Director of Mentorship--></h1>
 							<div class="officerlinks">
-								<h2 class="officertemp">Gina Lee</h2>
-								<a href="https://www.linkedin.com/in/leeginaj" class="icon fa-linkedin" class="officertemp">
+								<h2 class="officertemp">Zhilin Huang</h2>
+								<!--<a href="https://www.linkedin.com/in/leeginaj" class="icon fa-linkedin" class="officertemp">
 									<span class="label">LinkedIn</span>
-								</a>
+								</a>-->
 							</div>
-							<p>Human Centered Design &amp; Engineering</p>
+							<p>Biology</p>
 							<p>&nbsp;</p>
 							<p class="year">Junior</p>
 						</div>
@@ -155,34 +155,31 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/daniel17.jpg" alt="" > 
+								<img src="images/officers/laura17-18.jpg" alt="" > 
 							</div>
 
-							<h1>Advisor<br>Branch Representative</h1>
+							<h1>General Officer</h1>
 							<div class="officerlinks">
-								<h2 class="officertemp">Daniel Zhu</h2>
-								<a href="https://www.linkedin.com/in/zhudaniel" class="icon fa-linkedin" class="officertemp">
-									<span class="label">LinkedIn</span>
-								</a>
+								<h2 class="officertemp">Laura Meng </h2>
 							</div>
-							<p>Electrical Engineering</p>
-							<p>&nbsp;</p>
-							<p class="year">Junior</p>
-						</div>
-					</td>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
-								<img src="images/officers/shen17.jpg" alt="" > 
-							</div>
-
-							<h1>Senior Officer</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Shen Yao</h2>
-							</div>
-							<p>Electrical Engineering</p>
+							<p>Intended Human Centered Design &amp; Engineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Sophomore</p>
+						</div>
+					</td>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
+								<img src="images/officers/yueling17-18.jpg" alt="" > 
+							</div>
+
+							<h1>General Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Yueling Lai</h2>
+							</div>
+							<p>Intended Human Centered Design &amp; Engineering</p>
+							<p>&nbsp;</p>
+							<p class="year">Freshman</p>
 						</div>
 					</td>
 				</tr>
@@ -191,47 +188,49 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/rita17.jpg" alt="" > 
+								<img src="images/officers/anand17-18.jpg" alt="" > 
 							</div>
 
-							<h1>Senior Officer</h1>
+							<h1>General Officer</h1>
 							<div class="officerlinks">
-								<h2 class="officertemp">Rita Huang</h2>
+								<h2 class="officertemp">Anand Carpenter Shrestha</h2>
 							</div>
-							<p>Computer Science</p>
+							<p>Intended Bioengineering</p>
+							<p>&nbsp;</p>
+							<p class="year">Freshman</p>
+						</div>
+					</td>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
+								<img src="images/officers/yuhua17-18.jpg" alt="" > 
+							</div>
+							<h1>General Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Yuhua An</h2>
+							</div>
+							<p>Intended Human Centered Design &amp; Engineering</p>
+							<p>&nbsp;</p>
+							<p class="year">Freshman</p>
+						</div>
+					</td>
+					<td class="officertd">
+						<div class="officerpic">
+							<div style="padding:2%">
+								<img src="images/officers/garrett17-18.jpg" alt="" > 
+							</div>
+							<h1>Webmaster<br>General Officer</h1>
+							<div class="officerlinks">
+								<h2 class="officertemp">Garrett Mar</h2>
+							</div>
+							<p>Human Centered Design &amp; Engineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Junior</p>
 						</div>
 					</td>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
-								<img src="images/officers/sira17.jpg" alt="" > 
-							</div>
-							<h1>Senior Officer</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Sira Horradarn</h2>
-							</div>
-							<p>Computer Science</p>
-							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
-						</div>
-					</td>
-					<td class="officertd">
-						<div class="officerpic">
-							<div style="padding:2%">
-								<img src="images/officers/zhilin17.jpg" alt="" > 
-							</div>
-							<h1>Senior Officer</h1>
-							<div class="officerlinks">
-								<h2 class="officertemp">Zhilin Huang</h2>
-							</div>
-							<p>Biology</p>
-							<p>&nbsp;</p>
-							<p class="year">Sophomore</p>
-						</div>
-					</td>
 			<!-- ROW 5 -->
+                    
+<!--Update this list if more officers added***
 			<tr>
 				<td class="officertd">
 						<div class="officerpic">
@@ -278,6 +277,7 @@
 							<p class="year">Junior</p>
 						</div>
 					</td>	
+-->
 			</tr>
 			</table>
 			<!--<center><h1 style="font-size: 150%; padding-bottom: 2%; color: #0055FE">General Officers</h1></center>
