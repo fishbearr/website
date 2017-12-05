@@ -44,13 +44,13 @@
 
 								<!-- Box -->
 									<section class="box feature eventfeature">
-										<a href="events.php" class="image featured"><img src="images/event_scavengerhunt.jpg" alt="" /></a>
+										<a href="events.php" class="image featured"><img src="images/krispy_kreme_dec7.jpg" alt="event-1" /></a>
 										<div class="inner">
 											<header>
-												<h2>Joint School Scavenger Hunt</h2>
-												<p>Saturday May 16th, 2015</p>
+												<h2>SASE Krispy Kreme Fundraiser feat. Hand Warmers</h2>
+												<p>Thursday December 7, 2017</p>
 											</header>
-											<p>HKSA UW is collaborating with SASE UW and the HKSA from Shoreline Community College for this Scavenger Hunt happening on May 16! Solve the problems in each checkpoint and see if you can save Renee.</p>
+											<p>Need to satisfy your sweet tooth before finals? Need to get warm in the chilly winter? SASE UW is holding our Krispy Kreme donut fundraiser with hand warmers!<br>Take a break and get cozy with us in front of Kane Hall on December 7th from 10:00AM to 4:00PM or until everything's sold out. Treat yourself, treat your friends!</p>
 										</div>
 									</section>
 
@@ -59,13 +59,22 @@
 
 								<!-- Box -->
 									<section class="box feature">
-										<a href="events.php" class="image featured"><img src="images/event_fredtour.jpg" alt="" /></a>
+										<a href="events.php" class="image featured"><img src="images/coco_research.jpg" alt="event-2" /></a>
 										<div class="inner">
 											<header>
-												<h2>Fred Hutchinson Tour</h2>
-												<p>Thursday April 23, 2015 </p>
+												<h2>SASE UW - Hot (Chocolate) Research Tips</h2>
+												<p>Tuesday November 28, 2017 </p>
 											</header>
-											<p>Ever wondered what life-saving discoveries are being made in right here in Seattle? Or just curious about cancer? SASE invites you to join us in a campus tour of Fred Hutchinson Cancer Research Center!</p>
+											<p>Interested in knowing what STEM research at UW entails? Want to learn more about getting into research while drinking some hot cocoa? Come to SASE's Research Panel on November 28th to get some "hot research tips" from upperclassmen!
+                                                    <br>We'll be talking about:
+                                                    -Finding the right research for you
+                                                    -How to approach professors/Finding research
+                                                    -Academic and personal advice
+                                                    -Other resources and so much more!
+
+                                                    <br>At the end, you'll be free to speak with any upperclassman & ask them questions. Hot Cocoa will be provided & everyone is welcome to attend, so please invite your friends! 
+
+                                                    <br>The event will take place at Thomson Hall, Room 135 from 5:30PM-7:00PM. We hope to see you there!! :)</p>
 										</div>
 									</section>
 
@@ -74,14 +83,13 @@
 
 								<!-- Box -->
 									<section class="box feature">
-										<a href="events.php" class="image featured"><img src="images/event_gamenight2015.jpg" alt="" /></a>
+										<a href="events.php" class="image featured"><img src="images/boeing_night_nov14.jpg" alt="event-3" /></a>
 										<div class="inner">
 											<header>
-												<h2>Game Night 2015</h2>
-												<p>Friday February 27, 2015 </p>
+												<h2>Career Development Night w/Boeing</h2>
+												<p>Tuesday November 14, 2017 </p>
 											</header>
-											<p>Need a break from studying? Want to stand a chance to win up to $300?</p>
-											<p>Join us for an evening of fun and laughter at SASE on Friday, Feb 27 at 5pm at Alder 105! Come down and test your skills and limits with rounds of various creative games, some of which are inspired by our favorite game shows!</p>
+											<p>BOEING PRESENTS: An opportunity to network with Industry members from Boeing industry members (including Engineering, Technical Fellows, Managers, Executive Leaders, and Human Resources) who will provide perspective on professional life, discuss industry challenges, and provide “lessons learned” on careers and personal fulfillment. The session will begin with a general panel & introductions, then small-group discussions will continue in adjacent classrooms.</p>
 										</div>
 									</section>
 
