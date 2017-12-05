@@ -162,7 +162,7 @@
 							<div class="officerlinks">
 								<h2 class="officertemp">Laura Meng </h2>
 							</div>
-							<p>Intended Human Centered Design &amp; Engineering</p>
+							<p>Intended <br>Human Centered Design &amp; Engineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Sophomore</p>
 						</div>
@@ -177,7 +177,7 @@
 							<div class="officerlinks">
 								<h2 class="officertemp">Yueling Lai</h2>
 							</div>
-							<p>Intended Human Centered Design &amp; Engineering</p>
+							<p>Intended <br>Human Centered Design &amp; Engineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Freshman</p>
 						</div>
@@ -195,7 +195,7 @@
 							<div class="officerlinks">
 								<h2 class="officertemp">Anand Carpenter Shrestha</h2>
 							</div>
-							<p>Intended Bioengineering</p>
+							<p>Intended <br>Bioengineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Freshman</p>
 						</div>
@@ -209,7 +209,7 @@
 							<div class="officerlinks">
 								<h2 class="officertemp">Yuhua An</h2>
 							</div>
-							<p>Intended Human Centered Design &amp; Engineering</p>
+							<p>Intended <br>Human Centered Design &amp; Engineering</p>
 							<p>&nbsp;</p>
 							<p class="year">Freshman</p>
 						</div>
@@ -219,7 +219,7 @@
 							<div style="padding:2%">
 								<img src="images/officers/garrett17-18.jpg" alt="" > 
 							</div>
-							<h1>Webmaster<br>General Officer</h1>
+							<h1>Webmaster,<br>General Officer</h1>
 							<div class="officerlinks">
 								<h2 class="officertemp">Garrett Mar</h2>
 							</div>
