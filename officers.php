@@ -28,12 +28,12 @@
 					<td class="officertd">
 						<div class="officerpic">
 							<div style="padding:2%">
-								<img src="images/officers/clara17.jpg" alt="" > 
+								<img src="images/officers/shen17-18.jpg" alt="president" > 
 							</div>
 
 							<h1>President</h1>
 							<div class="officerlinks">
-								<h2 class="officertemp">Clara Natajaya Na</h2>
+								<h2 class="officertemp">Shen Yao</h2>
 								<!--<a class="icon fa-linkedin" class="officertemp">
 									<span class="label">LinkedIn</span>
 								</a>-->

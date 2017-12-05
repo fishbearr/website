@@ -50,7 +50,7 @@
 												<h2>SASE Krispy Kreme Fundraiser feat. Hand Warmers</h2>
 												<p>Thursday December 7, 2017</p>
 											</header>
-											<p>Need to satisfy your sweet tooth before finals? Need to get warm in the chilly winter? SASE UW is holding our Krispy Kreme donut fundraiser with hand warmers!<br>Take a break and get cozy with us in front of Kane Hall on December 7th from 10:00AM to 4:00PM or until everything's sold out. Treat yourself, treat your friends!</p>
+											<p>Need to satisfy your sweet tooth before finals? Need to get warm in the chilly winter? SASE UW is holding our Krispy Kreme donut fundraiser with hand warmers! Take a break and get cozy with us in front of Kane Hall on December 7th from 10:00AM to 4:00PM or until everything's sold out. Treat yourself, treat your friends!</p>
 										</div>
 									</section>
 
